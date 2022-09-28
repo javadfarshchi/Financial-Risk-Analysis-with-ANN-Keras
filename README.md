@@ -176,7 +176,26 @@ One of the features for example could be the relationship between the employment
 
 ## Model Creation
 
-The model is created based on Sequential Artificial Neural Networks with dense layers with 78, 39, 19, and 1 nodes. The losses plot can be found in the following plot.
+The model is created based on Sequential Artificial Neural Networks with dense layers with input, hidden, hidden, and output layers with 78, 39, 19, and 1 nodes, respectively. The validation loss versus the training losses can be found in the following plot.
 
 
 ![losses](https://github.com/javadfarshchi/Financial-Risk-Analysis-with-ANN/blob/main/losses.png)
+
+
+## Model Evaluation
+
+Here are the classification report and confusion matrix information.
+
+              precision    recall  f1-score   support
+           0       0.99      0.43      0.60     15658
+           1       0.88      1.00      0.93     63386
+
+    accuracy                           0.89     79044
+   macro avg       0.93      0.72      0.77     79044
+weighted avg       0.90      0.89      0.87     79044
+
+
+array([[ 6785,  8873],
+       [   49, 63337]], dtype=int64)
+
+
