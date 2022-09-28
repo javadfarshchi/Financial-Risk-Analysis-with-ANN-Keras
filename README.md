@@ -169,3 +169,7 @@ Here is the information on our data set:
 ---
 
 ![datacorr](https://github.com/javadfarshchi/Financial-Risk-Analysis-with-ANN/blob/main/datacorr.png)
+
+One of the features for example could be the relationship between the employment length and the loan being charged off or fully paid. More information on other parameters and through explanation could be found in the noteboook.
+
+![emplength](https://github.com/javadfarshchi/Financial-Risk-Analysis-with-ANN/blob/main/emplength.png)
