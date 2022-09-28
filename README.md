@@ -173,3 +173,10 @@ Here is the information on our data set:
 One of the features for example could be the relationship between the employment length and the loan being charged off or fully paid. More information on other parameters and through explanation could be found in the [noteboook](https://github.com/javadfarshchi/Financial-Risk-Analysis-with-ANN/blob/main/Financial%20Risk%20Analysis%20with%20ANN%20(LendingClub%20Data).ipynb).
 
 ![emplength](https://github.com/javadfarshchi/Financial-Risk-Analysis-with-ANN/blob/main/emplength.png)
+
+## Model Creation
+
+The model is created based on Sequential Artificial Neural Networks with dense layers with 78, 39, 19, and 1 nodes. The losses plot can be found in the following plot.
+
+
+![losses](https://github.com/javadfarshchi/Financial-Risk-Analysis-with-ANN/blob/main/losses.png)
