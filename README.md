@@ -4,7 +4,7 @@ LendingClub is a US peer-to-peer lending company, headquartered in San Francisco
 
 ## Our Objective
 
-We will try to create a model based on our historical data from the customers to answer a question. Can we build a model that can predict wether or not a borrower will pay back their loan? Answering this question, we can predict and assess whether or not a new potential will pay back the loan. In the end, we will use classification metrics when evaluating the performance of our model.
+We will try to create a model based on our historical data from the customers to answer a question. Can we build a model that can predict wether or not a borrower will pay back their loan? Answering this question, we can predict and assess whether or not a new potential will pay back the loan. In the end, we will use classification metrics when evaluating the performance of our model. "loan_status" column will be our target that would include 1 as "Fully Paid" or 0 as "Charged Off".
 
 ## Sections
 
