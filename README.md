@@ -194,8 +194,7 @@ Here are the classification report and confusion matrix information.
 weighted avg       0.90      0.89      0.87     79044
 
 
-array([[ 6785,  8873],
-
-       [   49, 63337]], dtype=int64)
+[ 6785,  8873],
+[   49, 63337]], dtype=int64)
 
 
