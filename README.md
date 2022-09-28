@@ -193,8 +193,9 @@ Here are the classification report and confusion matrix information.
 
 
 Confusion Matrix:
+
 [ 6785,  8873],
 
-[   49, 63337]], dtype=int64)
+[   49, 63337]]
 
 
